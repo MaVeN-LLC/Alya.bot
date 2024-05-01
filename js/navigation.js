@@ -48,27 +48,27 @@ const featureButtons = document.querySelectorAll("[data-feature]");
 const featuresArray = Array.from(featureButtons);
 const featureLabels = Array.from(document.querySelectorAll("[data-label]"));
 const titleArray = [
-  "Moderation",
-  "Music",
-  "Fun-Commands",
-  "Advanced Logging",
-  "Chat & Voice Leveling",
-  "Configuration",
+  "Powerful AI",
+  "Smart as the real Alya",
+  "Read Images",
+  "Safest Database",
+  "Voice Chat",
+  "Settings",
 ];
 const paragraphArray = [
-  "Support in moderation is not lacking at ree6. Thanks to a sophisticated moderation system, you can sit back relax and punish rule breakers with a single command. Included are: mute, kick, ban and automatic moderative actions.",
-  "With our built-in Music Player you can play Music from Websites such as Spotify, YouTube, Vimeo, Bandcamp, SoundCloud and even custom MP3 Files!",
-  "By using different APIs Ree6 has the ability to give your Random Facts, Dog Images and Cat Images! We even have Commands such as slap and kiss!",
-  "Ree6 offers varied audit logging in a clearer, more clearly structured style. All possible changes to the server are displayed (invite logging, role changes, channel switching and many more).",
-  "The bot offers a constructed level system. Right now we're referring to this as chat leveling. Rank queries and a leaderboard are also included and work perfectly.",
-  "The bot will offer a newly built Configuration System for our users.",
+  "Alya is proudly made with Shapes.Inc AI, A way to imagine friends without problems.",
+  "Alya is smart with intergration of Google and Trainings!",
+  "She can read images for free!",
+  "Alya uses the safest database provided by 1Anime. This is where she store her memories",
+  "Heads up. She can hear you~",
+  "Join our Discord server to customize your AI settings.",
 ];
 const ctaArray = [
-  "Authorize with Ree6",
-  "Turn it Up with Ree6",
-  "Command with Ree6",
-  "Analyze the Data with Ree6",
-  "Level Up with Ree6",
+  "Invite now",
+  "Talk smarter with Alya",
+  "Share images with Alya",
+  "Safer with Alya",
+  "VC with Alya",
   "Even the Odds with Ree6",
 ];
 const featureCount = document.querySelector(".count");
